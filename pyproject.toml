@@ -1,0 +1,18 @@
+[project]
+name = "opendata"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "humanize>=4.15.0",
+    "kloppy>=3.18.0",
+    "matplotlib>=3.10.9",
+    "mkdocs-jupyter>=0.24.0",
+    "mkdocs-material>=9.5.0",
+    "mplsoccer>=1.6.1",
+    "numpy>=2.4.6",
+    "pandas==2.2.2",
+    "polars>=1.40.1",
+    "setuptools>=82.0.1",
+    "skillcorner==3.1",
+    "skillcornerviz>=1.1.2",
+]

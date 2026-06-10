@@ -16,3 +16,7 @@ dependencies = [
     "skillcorner==3.1",
     "skillcornerviz>=1.1.2",
 ]
+
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
